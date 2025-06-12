@@ -20,19 +20,6 @@
 
 Este projeto implementa uma **Árvore AVL em Java** com o objetivo de analisar o desempenho de inserção, remoção e busca em comparação com a estrutura `TreeMap` da biblioteca Java Collections Framework.
 
----
-
-## ⚙️ Funcionalidades
-
-- Inserção de dados na AVL com balanceamento
-- Remoção com rebalanceamento
-- Busca eficiente por chave
-- Leitura de dados de arquivo `.csv`
-- Medição de tempo de operações usando `System.nanoTime()`
-- Comparativo com `TreeMap`
-- Geração de log de desempenho
-- 
-
 # Instrução para aplicação do código:
 - instale os anexos .java
 - instale o dataset.csv
