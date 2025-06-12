@@ -23,4 +23,4 @@ Este projeto implementa uma **Árvore AVL em Java** com o objetivo de analisar o
 # Instrução para aplicação do código:
 - instale os anexos .java
 - instale o dataset.csv
-- abra os arquivos em uma IDE de java
+- Execute o "ArvoreAVL.java"
