@@ -31,10 +31,7 @@ Este projeto implementa uma **Árvore AVL em Java** com o objetivo de analisar o
 - Medição de tempo de operações usando `System.nanoTime()`
 - Comparativo com `TreeMap`
 - Geração de log de desempenho
-
----
-
-## 📂 Estrutura do Projeto
+- 
 
 # Instrução para aplicação do código:
 - instale os anexos .java
